@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab_6</string>
+    <string name="accept">Применить</string>
+    <string name="cancel">Отменить</string>
+    <string name="content">Содержание</string>
+    <string name="title">Заголовок</string>
+    <string name="set_date_time">Указать дату и время</string>
+    <string name="notification_text">Текст уведомления</string>
+    <string name="date_time">Дата и время</string>
+</resources>
